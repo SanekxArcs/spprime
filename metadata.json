@@ -1,0 +1,5 @@
+{
+  "name": "Real-time Scrum Poker",
+  "description": "A real-time online Scrum Poker service for agile teams. Create password-protected rooms, vote on tasks with customizable cards, and view role-based averages with PM-controlled multipliers. All data is synchronized in real-time across browser tabs.",
+  "requestFramePermissions": []
+}
